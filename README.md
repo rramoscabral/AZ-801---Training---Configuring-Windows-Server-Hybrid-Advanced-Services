@@ -20,11 +20,9 @@ Microsoft Teams voice engineers plan, design, configure, maintain, and troublesh
 
 - [About the course](./about-the-course.md)
 - [Exam certification](./exam.md)
-- [Preparing for the course](./prepare-for-the-course.md)
 - [Hands-on Labs](./hands-on-labs.md)
-- [PowerShell](./powershell.md)
-- [Licensing & Pricing](./licensing-pricing.md)
-- [Resources](./resources.md)
+
+
 
 
 <br/>
