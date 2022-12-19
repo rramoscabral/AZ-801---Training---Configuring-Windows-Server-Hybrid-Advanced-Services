@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: AZ-801 - Configuring Windows Server Hybrid Advanced Services
+description: Companion material and resources for the course 'Configuring Windows Server Hybrid Advanced Services' delivery by Ricardo Cabral. 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
