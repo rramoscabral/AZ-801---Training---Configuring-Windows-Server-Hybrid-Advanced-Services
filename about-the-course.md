@@ -11,7 +11,7 @@
 
 <br/>
 
-The course Managing Modern Desktops will help you understand how to configure advanced Windows Server services using on-premises, hybrid, and cloud technologies.
+The course Managing Modern Desktops will help you understand how to configure Windows Server using on-premises, hybrid, and cloud technologies.
 
 AZ-801 is four-days sequential course.
 
