@@ -2,7 +2,7 @@
 
 <br/>
 
-**[Back to main](./README.md)**
+[**Back to main**](./README.md)
 
 ---
 
@@ -13,6 +13,7 @@
 
 - [About the exam](#about-the-exam)
 - [Skills measure](#skills-measured)
+- [Official study guide](#official-study-guide)
 - [Official practice test](#official-practice-test)
 - [Score needed to pass exam](#score-needed-to-pass-exam)
 - [Exam experience](#exam-experience)
@@ -67,6 +68,23 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 
 The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/az-801).
+
+<br/>
+
+[Return to top](#top) | [Back to main](./README.md)
+
+<br/>
+
+---
+
+<a id="official-study-guide" />
+
+<br/>
+
+### **Official study guide**
+
+
+The official study guide is available [**here**](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-801).
 
 <br/>
 
@@ -203,7 +221,7 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Return to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
