@@ -53,9 +53,9 @@
     },
     "variables": {
         "vmTCCustomScriptFileName": "configure-labvm.ps1",
-        "vmTCCustomScriptUri": "[concat('https://raw.githubusercontent.com/microsoft/MTC_APPContainerization/main/ASP.NET%20Containerization/', variables('vmTCCustomScriptFileName'))]",
+        "vmTCCustomScriptUri": "[concat('https://raw.githubusercontent.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services/main/labs/aspnet_containerization/', variables('vmTCCustomScriptFileName'))]",
         "vmASCustomScriptFileName": "configure-labvm-as.ps1",
-        "vmASCustomScriptUri": "[concat('https://raw.githubusercontent.com/microsoft/MTC_APPContainerization/main/ASP.NET%20Containerization/', variables('vmASCustomScriptFileName'))]",
+        "vmASCustomScriptUri": "[concat('https://raw.githubusercontent.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services/main/labs/aspnet_containerization/', variables('vmASCustomScriptFileName'))]",
         "osPassword": "Password@123",
         "sqlPassword": "Password@123",
         "AppDatabase": "[concat('appcontainerization-lab', substring(uniqueString(resourceGroup().id),0,4))]"
