@@ -1,6 +1,21 @@
-##Snap-in control files
+<a id="top" />
+
+<br/>
+
+**[Back to main](./README.md)**
+
+---
+
+## Snap-ins
+
+> An MMC console has no native system or network management functionality, but rather provides a common user interface for whatever management functionality it is populated with in the form of snap-ins.
+> 
+> A snap-in is a Component Object Model (COM) in-process server dynamic-link library (DLL). This COM interface is situated between MMC and the snap-in. MMC does not care how the snap-in communicates with the managed service. Snap-ins can communicate with the managed service through any data protocol that the managed service supports. MMC has no knowledge of the mechanism used for this communication. Both Microsoft developers and independent software vendors (ISVs) can create snap-ins.
+
+*Source: Microsoft*
 
 
+<br/>
 
 
 |	Msc File	|	Console	|	Description	|
@@ -80,3 +95,11 @@
 |	wsrm.msc	|	Windows System Resource Manager	|		|
 |	wsus.msc	|	Update Services	|		|
 
+
+<br/>
+
+**[Return to top](#top)** | **[Back to main](./README.md)**
+
+<br/>
+
+---
