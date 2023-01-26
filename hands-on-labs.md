@@ -13,7 +13,7 @@ Official AZ-801 hands-on labs are available **[here](https://microsoftlearning.g
 
 <br/>
 
-## Demos and Labs files
+## Labs files
 
 
 * PartsUnlimited application ASP.NET Containerization
