@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Trainer References'
-nav_order: 11
+nav_order: 7
 has_children: false
 ---
 
