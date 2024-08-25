@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 'Training Contents 2023'
+title: 'Training Contents 2024'
 has_children: false
 parent: 'Training Contents'
 ---
 
-# Training Contents 2023
+# Training Contents 2024
 {: .no_toc }
 
-Training content for 2023
+Training content for 2024
 
 ## Table of contents
 {: .no_toc .text-delta }
