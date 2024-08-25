@@ -1,10 +1,25 @@
-<a id="top" />
+---
+layout: default
+title: Exam certification
+nav_order: 4
+has_children: false
+---
+
+# Exam certification
+{: .no_toc }
+
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 <br/>
 
-**[Back to main](./README.md)**
-
 ---
+
+<br/>
 
 ## Exam certification
 
@@ -53,10 +68,6 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
 ---
 
 <a id="skills-measured" />
@@ -67,10 +78,6 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 
 The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/az-801).
-
-<br/>
-
-[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 
@@ -88,7 +95,7 @@ They offer the official practice test, certKit, assessment, video training or bu
 The practice test is designed to help candidates prepare for and pass the Microsoft exam.
 
 You can access demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
-  1. Access [www.measureup.com](https://www.measureup.com).
+  1. Access [www.measureup.com](https://www.measureup.com#u5).
   1. Hover the mouse over Sign in, and click on SIGN IN.
   1. Type your username and password, and click on Sign in.
   1. On the top menu, hover the mouse over Account, and click on My Learning Locker.
@@ -97,14 +104,10 @@ You can access demo tests for free. Each demo is a short version of the complete
 <br/>
 
 You can buy the practice test at:
-- [measureup](https://www.measureup.com/microsoft-official-practice-test-az-801-configuring-windows-server-hybrid-advanced-services.html).
+- [measureup](https://www.measureup.com/microsoft-official-practice-test-az-801-configuring-windows-server-hybrid-advanced-services.html#u5).
 - [mindhub](https://eu1.mindhub.com/az-801-configuring-windows-server-hybrid-advanced-services-microsoft-official-practice-test/p/MU-AZ-801).
 
 
-
-<br/>
-
-[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 
@@ -117,10 +120,6 @@ You can buy the practice test at:
 All technical exam scores are reported on a scale of 1 to 1,000 and are scaled such that the passing score is 700. Any score of 700 or greater is a "pass." Any score below 700 is a "fail." The actual number of items you need to answer correctly to pass is determined by a group of subject matter experts in conjunction with the Microsoft psychometrician during the development and maintenance of the exam. The passing score is based on the knowledge and skills needed to demonstrate competence in the skill domain and the difficulty of the questions that a candidate answers when taking the exam.
 
 For more informations about the exam scoring and score reports is available [**here**](https://docs.microsoft.com/en-us/learn/certifications/exam-scoring-reports)
-
-<br/>
-
-[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 
@@ -138,10 +137,6 @@ You can demo the exam experience by visiting the *exam sandbox* at [https://aka.
 In the sandbox, you will be able to interact with the different question types (e.g., build list, drag and drop, etc.) that are available in the actual user interface that you will navigate during the exam. In addition, this experience includes the same introductory screens, instructions, and question type help information that you will see on your exam as well as the non-disclosure agreement that you must agree to before launching the exam.
 
 As a result, using this sandbox should better prepare you for the exam experience and increase your familiarity with the user interface, how to navigate between pages and questions, what actions are required to answer each of the different question types, where information about the exam is located (e.g., time remaining, questions remaining, etc.), how to mark questions for review, and how to leave comments.
-
-<br/>
-
-[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 
@@ -182,10 +177,6 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
-
-<br/>
-
 ---
 
 <a id="exam-polices-and-faq" />
@@ -200,10 +191,6 @@ If you want to take an online exam **run system test** before you register for a
 
 [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 
-
-<br/>
-
-[Return to top](#top) | [Back to main](./README.md)
 
 <br/>
 

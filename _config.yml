@@ -1,8 +1,63 @@
-theme: jekyll-theme-slate
-title: AZ-801 - Configuring Windows Server Hybrid Advanced Services
-description: Companion material and resources for the course 'Configuring Windows Server Hybrid Advanced Services' delivery by Ricardo Cabral. 
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
+title: "Training course for AZ-801"
+description: "Companion material and resources for the course 'AZ-801: Configuring Windows Server Hybrid Advanced Services' delivery by Ricardo Cabral." 
+url: "https://az801.rramoscabral.com/" 
+repository: "https://github.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services"
+theme: just-the-docs
+
+aux_links:
+  "Companion Material and Resources for Class Delivery by Ricardo Cabral for Microsoft Course AZ-801": 
+    - "https://az801.rramoscabral.com/"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+  
+# CODE
+enable_copy_code_button: true
+
+# Footer content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+# Ruby Markdown-superset converter
+kramdown:
+syntax_highlighter_opts:
+  block:
+    line_numbers: true
+
+
+  
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
+# markup / liquid-based content.
+footer_content: "Companion Material and Resources for Class Delivery by Ricardo Cabral."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services"
+gh_edit_branch: "main" 
+gh_edit_view_mode: "tree"

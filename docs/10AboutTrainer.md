@@ -1,21 +1,32 @@
-<a id="top" />
-
-<br/>
-
-
-# AZ-801: Configuring Windows Server Hybrid Advanced Services
-
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course AZ-801: Configuring Windows Server Hybrid Advanced Services.
-
-<br/>
-
-## Description
-
-This course teaches IT Professionals how to leverage the hybrid capabilities of Azure, how to migrate virtual and physical server workloads to Azure IaaS, and how to secure Azure VMs running Windows Server. 
-
-The course also teaches IT Professionals how to perform tasks related to high availability, troubleshooting, and disaster recovery. The course highlights administrative tools and technologies including Windows Admin Center, PowerShell, Azure Arc, Azure Automation Update Management, Microsoft Defender for Identity, Azure Security Center, Azure Migrate, and Azure Monitor.
-
 ---
+layout: default
+title: 'About the Trainer'
+nav_order: 10
+has_children: false
+---
+
+# About the Trainer
+{: .no_toc }
+
+
+<p align="center">
+  <img src="https://rramoscabral.com/assets/imgs/ricardocabral.jpg" alt="Ricardo Cabral Photo"/>
+</p>
+
+
+
+
+### Hi there 👋
+
+[Ricardo Cabral](https://rramoscabral.com/) is a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
+
+He has extensive experience on Microsoft 365, Microsoft Azure, Microsoft Azure Devops, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
+
+Now works as Azure Solutions Architect, IT consultant, and IT trainer at NWORKIT Digital Solutions.
+
+In his free time, he is actively participating, volunteering, speaking and organizing technical community meetings. 
+
+
 
 <!-- followme -->
 
@@ -48,8 +59,5 @@ The course also teaches IT Professionals how to perform tasks related to high av
 </div>
 
 
-<br/>
 
----
-
-<br/>
+<br>
