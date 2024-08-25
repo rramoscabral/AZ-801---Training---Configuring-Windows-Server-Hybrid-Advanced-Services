@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 'Taining Contents 2022'
+title: 'Training Contents 2022'
 has_children: false
 parent: 'Training Contents'
 ---
 
-# Taining Contents 2022
+# Training Contents 2022
 {: .no_toc }
 
 Training content for 2022
