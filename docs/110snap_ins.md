@@ -1,9 +1,8 @@
-<a id="top" />
-
-<br/>
-
-**[Back to main](./README.md)**
-
+---
+layout: default
+title: 'Snap-ins'
+has_children: false
+parent: 'Trainer References'
 ---
 
 ## Snap-ins
