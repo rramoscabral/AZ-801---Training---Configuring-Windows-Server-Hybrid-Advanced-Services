@@ -102,7 +102,7 @@ has_children: false
 
 <br/>
 
-## Learning Path 08:
+## Learning Path 08: Monitor and Troubleshoot Windows Server Environment (Server and performance monitoring in Windows Server)
 
 
 <!-- Demonstrations -->
@@ -116,7 +116,7 @@ has_children: false
 
 
 
-## Learning Path 09:
+## Learning Path 09: Monitor and troubleshoot Windows Server environment (Implementing operational monitoring in hybrid scenarios)
 
 
 <!-- Demonstrations -->

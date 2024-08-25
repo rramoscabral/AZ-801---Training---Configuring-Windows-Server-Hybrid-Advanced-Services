@@ -116,7 +116,7 @@ Training content for 2023
 
 | Lab | Exercise  |
 | --- | --- |
-| [Lab 5: Implementing Azure-based recovery services](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_05_Implementing_Azure-based_recovery_services.html)| - Exercise 1: Creating and configuring an Azure Site Recovery vault <br> - Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault <br> - Exercise 3: Implementing Azure Backup <br> - Exercise 4: Deprovisioning the Azure lab environment |
+| [Lab 5: Implementing Azure-based recovery services](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_05_Implementing_Azure-based_recovery_services.html) | - Exercise 1: Creating and configuring an Azure Site Recovery vault <br> - Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault <br> - Exercise 3: Implementing Azure Backup <br> - Exercise 4: Deprovisioning the Azure lab environment |
 | [Lab 5 answer key: Implementing Azure-based recovery services](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_05_Implementing_Azure-based_recovery_services.html)| - Exercise 1: Creating and configuring an Azure Site Recovery vault <br> - Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault <br> - Exercise 3: Implementing Azure Backup <br> - Exercise 4: Deprovisioning the Azure lab environment |
 
 <br>
@@ -162,35 +162,56 @@ Training content for 2023
 
 | Lab | Exercise  |
 | --- | --- |
-| [Lab 07 – Migrating Hyper-V VMs to Azure by using Azure Migrate](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_07_Implementing_migration_in_hybrid_scenarios.html) | - Exercise 1: Prepare the lab environment <br> - Exercise 2: Prepare for assessment and migration by using Azure Migrate <br> - Exercise 3: Assess Hyper-V for migration by using Azure Migrate <br> - Exercise 4: Migrate Hyper-V VMs by using Azure Migrate |
-
+| [Lab 7 – Migrating Hyper-V VMs to Azure by using Azure Migrate](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_07_Implementing_migration_in_hybrid_scenarios.html) | - Exercise 1: Prepare the lab environment <br> - Exercise 2: Prepare for assessment and migration by using Azure Migrate <br> - Exercise 3: Assess Hyper-V for migration by using Azure Migrate <br> - Exercise 4: Migrate Hyper-V VMs by using Azure Migrate |
+| [Lab 7 answer key: Migrating Hyper-V VMs to Azure by using Azure Migrate](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_07_Implementing_migration_in_hybrid_scenarios.html) | - Exercise 1: Prepare the lab environment <br> - Exercise 2: Prepare for assessment and migration by using Azure Migrate <br> - Exercise 3: Assess Hyper-V for migration by using Azure Migrate <br> - Exercise 4: Migrate Hyper-V VMs by using Azure Migrate |
 
 <br>
 
 
-## Learning Path 8:
+## Learning Path 8: Monitor and Troubleshoot Windows Server Environment (Server and performance monitoring in Windows Server)
 
 
 | Module | Learning Objectives | 
 | --- | --- |
+| [Monitor Windows Server performance](https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-performance/) | - Monitor network infrastructure services <br> - Monitor virtual machines running Windows Server <br> - Monitor performance with Windows Admin Center <br> - Use System Insights to help predict future capacity issues <br> - Optimize the performance of Windows Server |
+| [Manage and monitor Windows Server event logs](https://learn.microsoft.com/en-us/training/modules/manage-monitor-event-logs/) | - Describe Windows Server event logs <br> - Use Windows Admin Center to review logs <br> - Use Server Manager to review logs <br> - Use custom views <br> - Implement event log subscriptions |
+| [Implement Windows Server auditing and diagnostics](https://learn.microsoft.com/en-us/training/modules/troubleshoot-active-directory/) | - Describe basic auditing categories <br> - Describe advanced auditing categories <br> - Log user access <br> - Enable setup and boot event collection |
+| [Troubleshoot Active Directory](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_08_Monitoring_and_troubleshooting_Windows_Server.html) | - Recover objects from the AD recycle bin <br> - Recover the AD DS database <br> - Recover SYSVOL <br> - Troubleshoot AD DS replication <br> - Troubleshoot hybrid authentication issues |
 
 <br>
 
 | Lab | Exercise  |
 | --- | --- |
+| [Lab 8: Monitoring and troubleshooting Windows Server](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_08_Monitoring_and_troubleshooting_Windows_Server.html) | - Establish a performance baseline. <br> - Identify the source of a performance problem. <br> - Review and configure centralized event logs |
+| [Lab 8 answer key: Monitoring and troubleshooting Windows Server](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_08_Monitoring_and_troubleshooting_Windows_Server.html) | - Establish a performance baseline. <br> - Identify the source of a performance problem. <br> - Review and configure centralized event logs |
+
+
+
 
 <br>
 
 
-## Learning Path 9:
+## Learning Path 9: Monitor and troubleshoot Windows Server environment (Implementing operational monitoring in hybrid scenarios)
 
 
 | Module | Learning Objectives | 
 | --- | --- |
+| [Monitor Windows Server Virtual Machines and hybrid instances](https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/) | - Enable Azure Monitor for virtual machines <br> - Enable Azure Monitor in hybrid scenarios |
+| [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/) | - Monitor the health of the virtual machine <br> - Set up a VM with boot diagnostics <br> - View VM metrics <br> - Using the Azure Diagnostics extension <br> - Diagnostic data case studies <br> - Using diagnostic data <br> - Build log queries by using the Kusto Query Language |
+| [Troubleshoot Windows Server Virtual Machines in Azure](https://learn.microsoft.com/en-us/training/modules/troubleshoot-windows-server-virtual-machines-azure/) | - Troubleshoot VM deployment <br> - Troubleshoot VM startup <br> - Troubleshoot VM connectivity <br> - Optimize VM network connectivity security with Azure Bastion <br> - Troubleshoot VM performance <br> - Troubleshoot VM storage |
+| [Troubleshoot on-premises and hybrid networking](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_09_Implementing_operational_monitoring_in_hybrid_scenarios.html) | - Diagnose DHCP problems <br> - Diagnose DNS problems <br> - Diagnose IP configuration issues <br> - Diagnose routing problems <br> - Use Packet Manager to help diagnose network problems <br> - Use Azure Network Watcher to help diagnose network problems |
+
 
 <br>
 
 | Lab | Exercise  |
 | --- | --- |
+| [Lab 9: Implementing operational monitoring in hybrid scenarios](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_09_Implementing_operational_monitoring_in_hybrid_scenarios.html) | - Prepare a monitoring environment <br> - Configure monitoring of on-premises servers <br> - Configure monitoring of Azure VMs <br> - Evaluate monitoring services |
+| [Lab 9 answer key: Implementing operational monitoring in hybrid scenarios](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_09_Implementing_operational_monitoring_in_hybrid_scenarios.html) | - Prepare a monitoring environment <br> - Configure monitoring of on-premises servers <br> - Configure monitoring of Azure VMs <br> - Evaluate monitoring services |
+
+
+
+
+
 
 <br>
