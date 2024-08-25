@@ -19,31 +19,6 @@ has_children: false
 
 ---
 
-<br/>
-
-## Exam certification
-
-<br/>
-
-
-- [About the exam](#about-the-exam)
-- [Skills measure](#skills-measured)
-- [Official study guide](#official-study-guide)
-- [Official practice test](#official-practice-test)
-- [Score needed to pass exam](#score-needed-to-pass-exam)
-- [Exam experience](#exam-experience)
-- [Where can I take the exam](#where-can-i-take-the-exam)
-- [Exam Polices and FAQ](#exam-polices-and-faq)
-
-
-<br/>
-
-[**Back to main**](README.md)
-
-<br/>
-
----
-
 <a id="about-the-exam" />
 
 <br/>
