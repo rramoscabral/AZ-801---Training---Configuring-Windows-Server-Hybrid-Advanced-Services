@@ -19,12 +19,7 @@ The courses are regularly updated and if I teach a new class for this course the
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
-<br/>
 
----
 
-<br/>
 
