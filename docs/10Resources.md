@@ -49,7 +49,11 @@ No content.
 
 | Documentation | Description |
 | --- | --- | 
-| [Windows Server documentation](https://learn.microsoft.com/en-us/windows-server/) | Official Windows Server documentation from Microsoft |
+| [Azure documentation](https://learn.microsoft.com/en-us/azure/) |Official product documentation Azure. |
+| [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/) | Official product documentation for Azure Migrate. |
+| [Windows Server documentation](https://learn.microsoft.com/en-us/windows-server/) | Official product documentation for Windows Server. |
+| [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) | Proven guidance and best practices that help you confidently adopt the cloud and achieve business outcomes. |
+| [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) | The Azure Well-Architected Framework is a set of quality-driven tenets, architectural decision points, and review tools intended to help solution architects build a technical foundation for their workloads. |
 
 <br/>
 

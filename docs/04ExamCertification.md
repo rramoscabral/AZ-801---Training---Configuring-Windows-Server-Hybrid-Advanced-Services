@@ -82,24 +82,24 @@ The official study guide is available [**here**](https://learn.microsoft.com/en-
 
 ### **Official practice test**
 
-The Official practice test are carried out on MeasureUp.
-They offer the official practice test, certKit, assessment, video training or bundles.
+The official practice tests are taken on MeasureUp, but Microsoft Learn also provides a free practice test to test your knowledge.
 
 The practice test is designed to help candidates prepare for and pass the Microsoft exam.
 
-You can access demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
+- [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-801/practice/assessment?assessment-type=practice&assessmentId=68).
+- [Measureup](https://www.measureup.com/microsoft-official-practice-test-az-801-configuring-windows-server-hybrid-advanced-services.html#u5).
+- [mindhub](https://eu1.mindhub.com/az-801-configuring-windows-server-hybrid-advanced-services-microsoft-official-practice-test/p/MU-AZ-80).
+
+<br/>
+
+**Measureup demo test**
+
+You can access Measureup demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
   1. Access [www.measureup.com](https://www.measureup.com#u5).
   1. Hover the mouse over Sign in, and click on SIGN IN.
   1. Type your username and password, and click on Sign in.
   1. On the top menu, hover the mouse over Account, and click on My Learning Locker.
   1. Click on Open Demo Test List.
-
-<br/>
-
-You can buy the practice test at:
-- [measureup](https://www.measureup.com/microsoft-official-practice-test-az-801-configuring-windows-server-hybrid-advanced-services.html#u5).
-- [mindhub](https://eu1.mindhub.com/az-801-configuring-windows-server-hybrid-advanced-services-microsoft-official-practice-test/p/MU-AZ-801).
-
 
 
 <br/>
@@ -178,8 +178,6 @@ If you want to take an online exam **run system test** before you register for a
 
 ### **Exam Polices and FAQ**
 
-**Exam Polices and FAQs**
-
 [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 
 [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
@@ -188,3 +186,20 @@ If you want to take an online exam **run system test** before you register for a
 <br/>
 
 ---
+
+<a id="exam-replay" />
+
+<br/>
+
+### **Exam Replay**
+
+Exam Replay gives you a second chance to pass your certification exam. If you don’t pass on your first try, don’t worry, just polish your skills and retake the exam if needed.
+
+[You can Exam Replay here](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3).
+
+> **Important notes:** The certification exam and the retake must be scheduled and taken within 12 months of purchase.
+
+<br/>
+
+---
+
