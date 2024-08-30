@@ -194,7 +194,7 @@ This Learning Path consists of Modules that focus on implementing migration in h
 ## Learning Path 8: Monitor and Troubleshoot Windows Server Environment (Server and performance monitoring in Windows Server)
 
 <!-- Overview -->
-
+This Learning Path consists of Modules that focus on monitoring and troubleshooting scenarios in a Windows Server environment. 
 
 <!-- Module content -->
 | Module | Units | 
@@ -220,7 +220,7 @@ This Learning Path consists of Modules that focus on implementing migration in h
 ## Learning Path 9: Monitor and troubleshoot Windows Server environment (Implementing operational monitoring in hybrid scenarios)
 
 <!-- Overview -->
-
+This Learning Path consists of Modules that focus on implementing operational monitoring in hybrid scenarios. 
 
 <!-- Module content -->
 | Module | Units | 

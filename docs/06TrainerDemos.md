@@ -256,6 +256,27 @@ has_children: false
 <!-- Demonstrations -->
 
 
+- **Create VM in Azure Cloud Shell Bash**
+
+    ```bash
+    az group create --name monitor-rg --location westeurope
+
+    az vm create \
+        --resource-group monitor-rg\
+        --name demoVM \
+        --image Win2022AzureEditionCore \
+        --size Standard_B2s \
+        --public-ip-sku Basic \
+        --admin-username microsoft \
+        --admin-password Pa55w.rd1234
+
+
+    az vm run-command invoke -g monitor-rg -n demoVM --command-id RunPowerShellScript --scripts "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+
+    az vm open-port --port 80 -g monitor-rg --name demoVM
+    ```
+
+
 <br/>
 
 ---

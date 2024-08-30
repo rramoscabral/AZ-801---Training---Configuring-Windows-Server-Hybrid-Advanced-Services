@@ -110,11 +110,11 @@ has_children: false
 
 ## Learning Path 9: Monitor and troubleshoot Windows Server environment (Implementing operational monitoring in hybrid scenarios)
 
-<!--
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Monitor your Azure virtual machines with Azure Monitor | - [Kusto Query Language (KQL) overview](https://learn.microsoft.com/en-us/kusto/query/) <br> - [Azure Data Explorer Samples](https://dataexplorer.azure.com/clusters/help/databases/Samples) |
+
 
 
 <br/>
