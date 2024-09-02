@@ -98,11 +98,12 @@ has_children: false
 <br/>
 
 ## Learning Path 8: Monitor and Troubleshoot Windows Server Environment (Server and performance monitoring in Windows Server)
-<!--
+
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Monitor Windows Server performance  | [Snap-ins](./071snap_ins.md) |
+
 
 
 
