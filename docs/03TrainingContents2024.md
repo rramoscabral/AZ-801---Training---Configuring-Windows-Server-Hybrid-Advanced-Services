@@ -28,6 +28,7 @@ Training content for 2024
 This Learning Path consists of Modules that focus on securing Windows Server in an on-premises context. 
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Secure Windows Server user accounts](https://learn.microsoft.com/en-us/training/modules/secure-windows-server-user-accounts/) | - Configure user account rights <br> - Protect user accounts <br> - Describe Microsoft Defender Credential Guard <br> - Block NTLM authentication <br> - Locate problematic accounts | 
@@ -38,6 +39,7 @@ This Learning Path consists of Modules that focus on securing Windows Server in 
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 1 – Configuring security in Windows Server](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_01_Configuring_security_in_Windows_Server.html) | [Lab 1 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_01_Configuring_security_in_Windows_Server.html) | - Exercise 1: Configuring Windows Defender Credential Guard <br> - Exercise 2: Locating problematic accounts <br> - Exercise 3: Implementing LAPS |
@@ -52,6 +54,7 @@ This Learning Path consists of Modules that focus on implementing security solut
 
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Implement Windows Server IaaS VM network security](https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-network-security/) | - Implement network security groups <br> - Security rules for network security groups <br> - Application security groups <br> - Implement adaptive network hardening <br> - Implement Azure Firewall and Windows IaaS VMs <br> - Choose the appropriate filtering solution <br> - Capture network traffic with network watcher |
@@ -64,6 +67,7 @@ This Learning Path consists of Modules that focus on implementing security solut
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 2: Implementing Security Solutions in Hybrid Scenarios](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_02_Implementing_security_solutions_hybrid_scenarios.html) | [Lab 2 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_02_Implementing_security_solutions_hybrid_scenarios.html) | - Exercise 1: Creating an Azure Log Analytics workspace and an Azure Automation account <br> - Exercise 2: Configuring Microsoft Defender for Cloud <br> - Exercise 3: Provisioning Azure VMs running Windows Server <br> - Exercise 4: Onboarding on-premises Windows Server into Microsoft Defender for Cloud and Azure Automation <br> - Exercise 5: Verifying the hybrid capabilities of Microsoft Defender for Cloud and Azure Automation solutions <br> - Exercise 6: Deprovisioning the Azure environment |
@@ -78,6 +82,7 @@ This Learning Path consists of Modules that focus on implementing security solut
 This Learning Path consists of Modules that focus mainly on implementing high availability solutions in Windows Server.
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Introduction to Cluster Shared Volumes](https://learn.microsoft.com/en-us/training/modules/introduction-to-cluster-shared-volumes/) | - Determine the functionality of Cluster Shared Volumes <br> - Cluster Shared Volumes architecture <br> - Implement Cluster Shared Volumes |
@@ -89,6 +94,7 @@ This Learning Path consists of Modules that focus mainly on implementing high av
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 3: Implementing failover clustering](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_03_Implementing_failover_clustering.html) | [Lab 3 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_03_Implementing_failover_clustering.html) | - Exercise 1: Configuring iSCSI storage <br> - Exercise 2: Configuring a failover cluster <br> - Exercise 3: Deploying and configuring a highly available file server <br> - Exercise 4: Validating the deployment of the highly available file server |
@@ -102,6 +108,7 @@ This Learning Path consists of Modules that focus mainly on implementing high av
 This Learning Path consists of Modules that focus on implementing disaster recovery solutions in Windows Server scenarios. 
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Implement Hyper-V Replica](https://learn.microsoft.com/en-us/training/modules/implement-hyper-v-replica/) | - Define Hyper-V Replica <br> - Plan for Hyper-V Replica <br> - Configure and implement Hyper-V Replica <br> - Define extended replication <br> - Define Azure Site Recovery <br> - Implement Site Recovery from on-premises site to Azure <br> - Implement Site Recovery from on-premises site to on-premises site |
@@ -111,6 +118,7 @@ This Learning Path consists of Modules that focus on implementing disaster recov
 
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 4: Implementing Hyper-V Replica and Windows Server Backup](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_04_Implementing_Hyper-V_Replica_and_Windows_Server_Backup.html) | [Lab 4 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_04_Implementing_Hyper-V_Replica_and_Windows_Server_Backup.html) | - Exercise 1: Implementing Hyper-V Replica <br> - Exercise 2: Implementing backup and restore with Windows Server Backup |
@@ -127,6 +135,7 @@ This Learning Path consists of Modules that focus on implementing disaster recov
 
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Implement hybrid backup and recovery with Windows Server IaaS](https://learn.microsoft.com/en-us/training/modules/implement-hybrid-backup-recovery-windows-server-iaas/) | - Describe Azure Backup <br> - Implement recovery vaults <br> - Implement Azure Backup policies <br> - Recover Windows IaaS Virtual Machines <br> - Perform file and folder recovery <br> - Perform backup and restore of on-premises workloads |
@@ -137,6 +146,7 @@ This Learning Path consists of Modules that focus on implementing disaster recov
 
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 5: Implementing Azure-based recovery services](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_05_Implementing_Azure-based_recovery_services.html) | [Lab 5 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_05_Implementing_Azure-based_recovery_services.html)| - Exercise 1: Creating and configuring an Azure Site Recovery vault <br> - Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault <br> - Exercise 3: Implementing Azure Backup <br> - Exercise 4: Deprovisioning the Azure lab environment |
@@ -150,6 +160,7 @@ This Learning Path consists of Modules that focus on implementing disaster recov
 This Learning Path consists of Modules that focus on upgrade and migrate scenarios for Windows Server.
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Active Directory Domain Services migration](https://learn.microsoft.com/en-us/training/modules/active-directory-domain-services-migration/) | - Examine upgrade vs. migration <br> - Upgrade a previous version of Active Directory Domain Services to Windows Server 2022  <br> - Migrate to Active Directory Domain Services in Windows Server 2022 from a previous version  <br> - Explore the Active Directory Migration Tool |
@@ -160,6 +171,7 @@ This Learning Path consists of Modules that focus on upgrade and migrate scenari
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 06: Upgrade and migrate in Windows Server](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_07_Implementing_migration_in_hybrid_scenarios.html) | [Lab 06 Answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_06_Upgrade_and_migrate_Windows%20Server.html) | - Exercise 1: Deploying AD DS domain controllers in Azure <br> - Exercise 2: Migrating file servers by using Storage Migration Service |
@@ -174,6 +186,7 @@ This Learning Path consists of Modules that focus on upgrade and migrate scenari
 This Learning Path consists of Modules that focus on implementing migration in hybrid scenarios.
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Migrate on-premises Windows Server instances to Azure IaaS virtual machines](https://learn.microsoft.com/en-us/training/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/) | - Plan your migration <br> - Describe Azure Migrate <br> - Perform server assessment <br> - Migrate Windows Server workloads by using Azure Migrate |
@@ -184,6 +197,7 @@ This Learning Path consists of Modules that focus on implementing migration in h
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 7 – Migrating Hyper-V VMs to Azure by using Azure Migrate](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_07_Implementing_migration_in_hybrid_scenarios.html) | [Lab 7 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_07_Implementing_migration_in_hybrid_scenarios.html) | - Exercise 1: Prepare the lab environment <br> - Exercise 2: Prepare for assessment and migration by using Azure Migrate <br> - Exercise 3: Assess Hyper-V for migration by using Azure Migrate <br> - Exercise 4: Migrate Hyper-V VMs by using Azure Migrate |
@@ -197,6 +211,7 @@ This Learning Path consists of Modules that focus on implementing migration in h
 This Learning Path consists of Modules that focus on monitoring and troubleshooting scenarios in a Windows Server environment. 
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Monitor Windows Server performance](https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-performance/) | - Monitor network infrastructure services <br> - Monitor virtual machines running Windows Server <br> - Monitor performance with Windows Admin Center <br> - Use System Insights to help predict future capacity issues <br> - Optimize the performance of Windows Server |
@@ -207,6 +222,7 @@ This Learning Path consists of Modules that focus on monitoring and troubleshoot
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 8: Monitoring and troubleshooting Windows Server](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_08_Monitoring_and_troubleshooting_Windows_Server.html) | [Lab 8 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_08_Monitoring_and_troubleshooting_Windows_Server.html) | - Establish a performance baseline. <br> - Identify the source of a performance problem. <br> - Review and configure centralized event logs |
@@ -223,6 +239,7 @@ This Learning Path consists of Modules that focus on monitoring and troubleshoot
 This Learning Path consists of Modules that focus on implementing operational monitoring in hybrid scenarios. 
 
 <!-- Module content -->
+
 | Module | Units | 
 | --- | --- |
 | [Monitor Windows Server Virtual Machines and hybrid instances](https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/) | - Enable Azure Monitor for virtual machines <br> - Enable Azure Monitor in hybrid scenarios |
@@ -234,6 +251,7 @@ This Learning Path consists of Modules that focus on implementing operational mo
 <br>
 
 <!-- Labs -->
+
 | Lab |  Lab answer key | Exercise  |
 | --- | --- | --- |
 | [Lab 9: Implementing operational monitoring in hybrid scenarios](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_09_Implementing_operational_monitoring_in_hybrid_scenarios.html) | [Lab 9 answer key](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/Instructions/Labs/LAB_AK_09_Implementing_operational_monitoring_in_hybrid_scenarios.html) | - Prepare a monitoring environment <br> - Configure monitoring of on-premises servers <br> - Configure monitoring of Azure VMs <br> - Evaluate monitoring services |
