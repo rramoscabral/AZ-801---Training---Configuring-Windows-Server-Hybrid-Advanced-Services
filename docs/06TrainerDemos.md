@@ -40,7 +40,7 @@ has_children: false
     Get-WinUserLanguageList  
 
 
-    # Server Core App Compatibility Feature.
+    # Server Core App Compatibility Feature for Windows Client.
     Set-Service wuauserv -StartupType Manual
     Start-Service wuauserv
     Add-WindowsCapability -Online -Name ServerCore.AppCompatibility~~~~0.0.1.0

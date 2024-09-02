@@ -36,11 +36,15 @@ has_children: false
 
 ## Learning Path 2: Secure Windows Server on-premises and Hybrid Infrastructures (Implementing Security Solutions in Hybrid Scenarios)
 
-<!--
+
 | Lessons | Notes |
 | --- | --- |
-| --- | --- |
--->
+| Implement Windows Server IaaS VM network security | - [Azure network security groups overview](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) <br> - [What is Azure Firewall?](https://learn.microsoft.com/en-us/azure/firewall/overview) <br> - [Microsoft Network Monitor 3.4 (archive)](https://www.microsoft.com/en-us/download/details.aspx?id=4865) |
+| Manage Azure VM updates | - [Azure Update Manager overview](https://learn.microsoft.com/en-us/azure/update-manager/overview) |
+| Create and implement application allowlists with adaptive application control | - [Understand adaptive application controls](https://learn.microsoft.com/en-us/azure/defender-for-cloud/adaptive-application-controls) |
+| Audit the security of Windows Server IaaS virtual machines | - [What is Microsoft Sentinel?](https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal) <br> - [MITRE ATT&CK](https://attack.mitre.org/) |
+| Configure BitLocker disk encryption for Windows IaaS Virtual Machines | - [BitLocker overview](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/) <br> - [Overview of managed disk encryption options](https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview) <br> - [Find your BitLocker recovery key for home users](https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6) |
+| Implement change tracking and file integrity monitoring for Windows IaaS VMs | - [Announcing public preview: Azure Change Tracking & Inventory using Azure Monitor agent (AMA)](https://techcommunity.microsoft.com/t5/azure-governance-and-management/announcing-public-preview-azure-change-tracking-amp-inventory/ba-p/3713308) <br> - [Azure Monitor Agent overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview) |
 
 
 <br/>
