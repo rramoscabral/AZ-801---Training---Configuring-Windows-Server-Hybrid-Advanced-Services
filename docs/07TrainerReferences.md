@@ -28,6 +28,7 @@ has_children: false
 | --- | ---
 | Secure Windows Server user accounts | - [Credential Guard overview](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/) | 
 | Hardening Windows Server | - [Windows LAPS overview](https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview) <br> - [New tool: Policy Analyzer](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/new-tool-policy-analyzer/ba-p/701049) <br> - [Microsoft Security Compliance Toolkit - How to use](https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/security-compliance-toolkit-10) <br> - [Download Microsoft Security Compliance Toolkit 1.0](https://www.microsoft.com/en-us/download/details.aspx?id=55319) |
+| Secure Windows Server DNS | - [DNNSEC](https://www.pt.pt/en/security/dnssec/) <br> - [BIND DNSSEC Guide + Scripts + Tools + RFCs from DNS.pt](hhttps://www.pt.pt/en/dnssec/tools/) <br> - [Webcheck: Check the security of your domaino](https://webcheck.pt/en/) |
 
 
 
