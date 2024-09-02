@@ -12,7 +12,7 @@ It is designed for IT Professionals to configure advanced Windows Server service
 
 <br/>
 
-The course **AZ-801T00-A: Configuring Windows Server Hybrid Advanced Services** is intended for DevOps processes and practices in a version control system on GitHub and Azure DevOps.
+The course **AZ-801T00-A: Configuring Windows Server Hybrid Advanced Services** is intended for IT Professionals how to leverage the hybrid capabilities of Azure, how to migrate virtual and physical server workloads to Azure IaaS, and how to secure Azure VMs running Windows Server.
 
 
 |  Level        | Product                                | Role                  | Course Duration  |  Exam | Related certifications | 
