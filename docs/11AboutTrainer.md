@@ -23,7 +23,7 @@ has_children: false
 
 He has extensive experience on Microsoft 365, Microsoft Azure, Microsoft Azure Devops, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
 
-Now works as Azure Solutions Architect, IT consultant, and IT trainer at NWORKIT Digital Solutions.
+Now works as Azure Solutions Architect, IT consultant, and IT trainer at [NWORKIT Digital Solutions](https://www.nworkit.pt).
 
 In his free time, he is actively participating, volunteering, speaking and organizing technical community meetings. 
 
