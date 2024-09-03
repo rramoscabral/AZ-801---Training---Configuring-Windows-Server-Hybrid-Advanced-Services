@@ -47,6 +47,15 @@ has_children: false
 | Implement change tracking and file integrity monitoring for Windows IaaS VMs | - [Announcing public preview: Azure Change Tracking & Inventory using Azure Monitor agent (AMA)](https://techcommunity.microsoft.com/t5/azure-governance-and-management/announcing-public-preview-azure-change-tracking-amp-inventory/ba-p/3713308) <br> - [Azure Monitor Agent overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview) |
 
 
+
+| Lab| Resource |
+| --- | --- |
+| Lab 02: Implementing Security Solutions in Hybrid Scenarios | - Log Analytics Windows Agent (64 bit): ``https://go.microsoft.com/fwlink/?LinkId=828603`` <br> - Log Analytics Windows Agent (32 bit): ``https://go.microsoft.com/fwlink/?LinkId=828604`` <br> - Log Analytics Linux Agent: ``https://go.microsoft.com/fwlink/?LinkId=692028`` <br> - Download and onboard agent for Linux: ``wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/installer/scripts/onboard_agent.sh && sh onboard_agent.sh -w 3bd6999e-7f72-476b-9c42-73b11d8081b9 -s e/ <89OyCsoJm1Ox756oailfMDvQCjTzvu5Dx2Jaf39hR1CSMFznqNn7ouh2f65m0dVBlrhrfl5hDZOTif25pjTg== -d opinsights.azure.com`` |
+
+
+> Note: The legacy **Log Analytics agent  will be deprecated by August 2024**. After this date, Microsoft will no longer provide any support for the Log Analytics agent. Migrate to **Azure Monitor agent** before August 2024 to continue ingesting data.
+
+
 <br/>
 
 ## Learning Path 3: Implementing Windows Server high Availability
