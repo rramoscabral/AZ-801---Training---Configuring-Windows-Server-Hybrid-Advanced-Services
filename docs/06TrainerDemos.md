@@ -112,6 +112,35 @@ has_children: false
 
 <!-- Demonstrations -->
 
+- **Installing the iSCSI Target Server feature**
+    ```powershell
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{Install-WindowsFeature -Name Failover-Clustering -IncludeAllSubFeature -IncludeManagementTools} 
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{Add-WindowsCapability -Name Rsat.FileServices.Tools~~~~0.0.1.0 -Online} 
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2  -ScriptBlock{Install-WindowsFeature -Name "FS-DFS-Namespace", "FS-DFS-Namespace", "RSAT-DFS-Mgmt-Con" -IncludeManagementTools} 
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{Install-WindowsFeature -Name "FS-iSCSITarget-Server" -IncludeManagementTools} 
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2  -ScriptBlock{Install-WindowsFeature -Name "iSCSITarget-VSS-VDS" -IncludeManagementTools} 
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{Install-WindowsFeature "RSAT-DFS-Mgmt-Con"} 
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{shutdown /r /t 2} 
+
+    # Wait for restart
+
+    test-cluster SEA-SVR1, SEA-SVR2
+
+    # Unable to connect to SEA-SRV2 or SEA-SVR1
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{netsh advfirewall firewall add rule dir=in name="DCOM" program=%systemroot%\system32\svchost.exe service=rpcss action=allow protocol=TCP localport=135}
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{netsh advfirewall firewall add rule dir=in name ="WMI" program=%systemroot%\system32\svchost.exe service=winmgmt action = allow protocol=TCP localport=any}
+
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{Set-Service RemoteRegistry -StartupType Automatic} 
+    Invoke-Command -ComputerName SEA-SVR1, SEA-SVR2 -ScriptBlock{shutdown /r /t 0} 
+    ```
+
+
 - **Create a Azure virtual machine scale set from PowerShell**
     ```powershell
     New-AzResourceGroup -ResourceGroupName "VMScaleSet-RG" -Location "EastUS"
