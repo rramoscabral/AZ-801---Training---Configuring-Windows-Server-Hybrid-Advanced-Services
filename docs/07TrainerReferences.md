@@ -94,12 +94,11 @@ has_children: false
 
 ## Learning Path 6: Migrate Servers and Workloads in on-premises and Hybrid Environments (Upgrade and migrate in Windows Server)
 
-
-
 | Lessons | Notes |
 | --- | ---
-| Active Directory Domain Services migration | - [Upgrade domain controllers to a newer version of Windows Server](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/upgrade-domain-controllers) <br> - [Support policy and known issues for Active Directory Migration Tool](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/support-policy-and-known-issues-for-admt) |
-
+| Active Directory Domain Services migration | - [Windows Server 2019 EOF](https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2019) <br> - [Windows Server 2022 EOF](https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2022) <br> - [Overview of Windows Server upgrades](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-overview) <br>  - [Install, upgrade, or migrate to Windows Server](https://learn.microsoft.com/en-us/windows-server/get-started/install-upgrade-migrate) <br> - [Upgrade and conversion options for Windows Server](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options) <br>- [Upgrade domain controllers to a newer version of Windows Server](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/upgrade-domain-controllers) <br>- [Active Directory Domain Services migration - Training](https://learn.microsoft.com/en-us/training/modules/active-directory-domain-services-migration/) <br> - [Support policy and known issues for Active Directory Migration Tool](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/support-policy-and-known-issues-for-admt) <br>  - [Active Directory Migration Tool version 3.2 (has known problems and limited support)](https://www.microsoft.com/en-us/download/details.aspx?id=56570) <br> - [Active Directory Migration Tool (ADMT) Guide: Migrating and Restructuring Active Directory Domains](https://www.microsoft.com/en-us/download/details.aspx?id=19188) |
+| Migrate file server workloads using Storage Migration Service | - [Storage Migration Service overvie](https://learn.microsoft.com/en-us/windows-server/storage/storage-migration-service/overview) <br> - [Migrate file server workloads using Storage Migration Service - Training](https://learn.microsoft.com/en-us/training/modules/migrate-file-server-workloads-using-storage-migration-service/) |
+| Migrate Windows Server roles | - [Server Migration PowerShell](https://learn.microsoft.com/en-us/powershell/module/servermigration) <br> - [Migrate Windows Server roles - Training](https://learn.microsoft.com/en-us/training/modules/migrate-windows-server-roles/) |
 
 
 <br/>
