@@ -252,7 +252,9 @@ has_children: false
 
 - **Azure Migrate App Containerization**
 
-    [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Faspnet_containerization%2Ftemplate.json)
+    - Click the button below to deploy
+        
+        [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Faspnet_containerization%2Ftemplate.json)
 
 
 
