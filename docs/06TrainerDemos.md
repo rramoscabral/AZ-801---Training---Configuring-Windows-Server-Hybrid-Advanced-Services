@@ -236,9 +236,6 @@ has_children: false
     [![Visualize](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)
 
 
-
-https://raw.githubusercontent.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services/main/labs/active-directory-new-domain-xtremelabs/azuredeploy.json
-
 <br/>
 
 ---
