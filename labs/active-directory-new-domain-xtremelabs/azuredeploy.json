@@ -4,12 +4,14 @@
     "parameters": {
         "adminUsername": {
             "type": "string",
+            "defaultValue": "Student",
             "metadata": {
                 "description": "The name of the administrator account of the new VM and domain"
             }
         },
         "adminPassword": {
             "type": "securestring",
+            "defaultValue": "Pa55w.rd1234",
             "metadata": {
                 "description": "The password for the administrator account of the new VM and domain"
             }
@@ -22,7 +24,7 @@
         },
         "vmSize": {
             "type": "string",
-            "defaultValue": "Standard_D2s_v3",
+            "defaultValue": "Standard_D2s_v2",
             "metadata": {
                 "description": "Size of the VM for the controller"
             }
@@ -50,35 +52,35 @@
         },
         "virtualMachineName": {
             "type": "string",
-            "defaultValue": "adVM",
+            "defaultValue": "az801l06a-dc1",
             "metadata": {
                 "description": "Virtual machine name."
             }
         },
         "virtualNetworkName": {
             "type": "string",
-            "defaultValue": "adVNET",
+            "defaultValue": "az801l06a-vnet",
             "metadata": {
                 "description": "Virtual network name."
             }
         },
         "virtualNetworkAddressRange": {
             "type": "string",
-            "defaultValue": "10.0.0.0/16",
+            "defaultValue": "10.6.0.0/16",
             "metadata": {
                 "description": "Virtual network address range."
             }
         },
         "networkInterfaceName": {
             "type": "string",
-            "defaultValue": "adNic",
+            "defaultValue": "az801l06a-dc1-nic1",
             "metadata": {
                 "description": "Network interface name."
             }
         },
         "privateIPAddress": {
             "type": "string",
-            "defaultValue": "10.0.0.4",
+            "defaultValue": "10.6.0.4",
             "metadata": {
                 "description": "Private IP address."
             }
