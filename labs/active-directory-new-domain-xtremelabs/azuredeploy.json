@@ -25,7 +25,7 @@
         },
         "vmSize": {
             "type": "string",
-            "defaultValue": "Standard_Ds2_v2",
+            "defaultValue": "Standard_D2s_v3",
             "metadata": {
                 "description": "Size of the VM for the controller"
             }
