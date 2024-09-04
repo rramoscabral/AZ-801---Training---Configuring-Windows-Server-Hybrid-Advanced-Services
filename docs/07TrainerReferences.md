@@ -74,7 +74,7 @@ has_children: false
 | Lessons | Notes |
 | --- | ---
 | Implement Hyper-V Replica | [Resilient File System (ReFS) overview](https://learn.microsoft.com/en-us/windows-server/storage/refs/refs-overview) |
-| Protect your on-premises infrastructure from disasters with Azure Site Recovery | 
+| Protect your on-premises infrastructure from disasters with Azure Site Recovery | - - - |
 
 
 <br/>
@@ -108,7 +108,7 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Migrate on-premises Windows Server Instances to Azure IaaS Virtual Machines| - [Azure Data Box](https://azure.microsoft.com/en-us/products/databox) |
+| Migrate on-premises Windows Server Instances to Azure IaaS Virtual Machines| - [Azure Data Box](https://azure.microsoft.com/en-us/products/databox) <br> - [Tutorial: Cable and connect to your Azure Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up) - <br>  [Tutorial: Cable and connect to your Azure Data Box Heavy](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-set-up) |
 
 
 <br/>
