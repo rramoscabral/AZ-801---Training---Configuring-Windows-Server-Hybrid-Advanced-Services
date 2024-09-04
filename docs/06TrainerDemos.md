@@ -230,10 +230,12 @@ has_children: false
 
     - Click the button below to deploy
 
-    [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)  
+        [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)  
 
 
-    [![Visualize](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)
+    - Click the button below to visualize the resources
+
+        [![Visualize](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)
 
 
 <br/>
