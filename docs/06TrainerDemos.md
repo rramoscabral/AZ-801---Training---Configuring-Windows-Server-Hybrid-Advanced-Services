@@ -161,26 +161,11 @@ has_children: false
 
     # Get Public IP Address
     Get-AzPublicIpAddress -ResourceGroupName "VMScaleSet-RG"  | Select IpAddress
-    ```
-        
-    <br/>
-
-    [Back to top](#top) | [Back to all demos](./README.md)
-
-    <br/>
-
-    ---
-
-    <a id="task2" />
-
-    <br/>
-
-    **Task 2: Delete VMScaleSet-RG**
-
-    ```powershell
+ 
+    # End of demo: Delete VMScaleSet-RG
     Remove-AzResourceGroup -Name "VMScaleSet-RG" -Force -AsJob
     ```
-    ```
+
 
 
 - **Implement Storage Replica by using Windows PowerShell**
