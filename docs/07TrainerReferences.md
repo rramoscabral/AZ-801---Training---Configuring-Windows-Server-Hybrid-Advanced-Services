@@ -71,21 +71,23 @@ has_children: false
 
 ## Learning Path 4: Implement Disaster Recovery in Windows Server on-premises and Hybrid Environments (Disaster Recovery in Windows Server)
 
-<!--
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Implement Hyper-V Replica | [Resilient File System (ReFS) overview](https://learn.microsoft.com/en-us/windows-server/storage/refs/refs-overview) |
+| Protect your on-premises infrastructure from disasters with Azure Site Recovery | 
+
 
 <br/>
 
 ## Learning Path 5: Implement Disaster Recovery in Windows Server on-premises and Hybrid Environments (Implementing Disaster Recovery Services in Hybrid Scenarios)
 
-<!--
+
 | Lessons | Notes |
 | --- | ---
-| --- | --- |
--->
+| Protect your Azure infrastructure with Azure Site Recovery | - [About networking in Azure VM disaster recovery](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-about-networking) | 
+| Protect your virtual machines by using Azure Backup | - [Tutorial: Cable and connect to your Azure Data Box](https://learn.microsoft.com/en-us/azure/databox/data-box-deploy-set-up) - <br>  [Tutorial: Cable and connect to your Azure Data Box Heavy](https://learn.microsoft.com/en-us/azure/databox/data-box-heavy-deploy-set-up) |
+| Protect your virtual machines by using Azure Backup | - [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits) | 
+
 
 
 <br/>
