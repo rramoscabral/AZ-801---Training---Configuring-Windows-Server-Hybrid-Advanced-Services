@@ -228,7 +228,14 @@ has_children: false
 
 - **Lab: Upgrade and migrate in Windows Server (XtremeLabs: AZ-801T00-A-CEP)**
 
-    [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Faspnet_containerization%2Ftemplate.json)
+    Click the button below to deploy
+
+    [![Deploy To Azure](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)  
+
+
+    [![Deploy To Azure US Gov](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)  
+
+    [![Visualize](https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frramoscabral%2FAZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services%2Fmain%2Flabs%2Factive-directory-new-domain-xtremelabs%2Fazuredeploy.json)
 
 
 
