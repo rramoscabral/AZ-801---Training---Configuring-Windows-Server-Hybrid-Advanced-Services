@@ -4,51 +4,51 @@
     "parameters": {
         "resourceLocation": {
             "defaultValue": "westus",
-            "type": "String"
+            "type": "string"
         },
         "bastionHosts_bastion_name": {
             "defaultValue": "bastion-host",
-            "type": "String"
+            "type": "string"
         },
         "virtualNetworks_appcontainerization_vnet_name": {
             "defaultValue": "appcontainerization-vnet",
-            "type": "String"
+            "type": "string"
         },
         "AppServer": {
             "defaultValue": "vm-aspserver",
-            "type": "String"
+            "type": "string"
         },
         "publicIPAddresses_appcontainerization_vnet_ip_name": {
             "defaultValue": "appcontainerization-vnet-ip",
-            "type": "String"
+            "type": "string"
         },
         "AppContainerizationToolServer": {
             "defaultValue": "vm-toolclient",
-            "type": "String"
+            "type": "string"
         },
         "networkInterfaces_appcontainerization_aspser291_name": {
             "defaultValue": "appcontainerization-aspser291",
-            "type": "String"
+            "type": "string"
         },
         "networkInterfaces_appcontainerization_toolcl155_name": {
             "defaultValue": "appcontainerization-toolcl155",
-            "type": "String"
+            "type": "string"
         },
         "publicIPAddresses_appcontainerization_aspserver_ip_name": {
             "defaultValue": "appcontainerization-aspserver-ip",
-            "type": "String"
+            "type": "string"
         },
         "publicIPAddresses_appcontainerization_toolclient_ip_name": {
             "defaultValue": "appcontainerization-toolclient-ip",
-            "type": "String"
+            "type": "string"
         },
         "networkSecurityGroups_appcontainerization_aspserver_nsg_name": {
             "defaultValue": "appcontainerization-aspserver-nsg",
-            "type": "String"
+            "type": "string"
         },
         "networkSecurityGroups_appcontainerization_toolclient_nsg_name": {
             "defaultValue": "appcontainerization-toolclient-nsg",
-            "type": "String"
+            "type": "string"
         }
     },
     "variables": {
