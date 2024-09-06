@@ -118,7 +118,10 @@ has_children: false
 
 | Lessons | Notes |
 | --- | ---
-| Monitor Windows Server performance  | [Snap-ins](./071snap_ins.md) |
+| Monitor Windows Server performance  | - [Snap-ins](./071snap_ins.md) |
+| Manage and monitor Windows Server event logs | - [Review events and errors using Event Viewer](https://learn.microsoft.com/en-us/defender-endpoint/event-error-codes) - <br> [Server event logs](https://learn.microsoft.com/en-us/mem/configmgr/protect/tech-ref/bitlocker/server-event-logs) |
+| Implement Windows Server auditing and diagnostics | - [AuditPol](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/auditpol) |
+| Troubleshoot Active Directory | - [How to reset the Directory Services Restore Mode administrator account password in Windows Server](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/reset-directory-services-restore-mode-admin-pwd) |
 
 
 
@@ -129,8 +132,15 @@ has_children: false
 
 
 | Lessons | Notes |
-| --- | ---
-| Monitor your Azure virtual machines with Azure Monitor | - [Kusto Query Language (KQL) overview](https://learn.microsoft.com/en-us/kusto/query/) <br> - [Azure Data Explorer Samples](https://dataexplorer.azure.com/clusters/help/databases/Samples) |
+| --- | --- |
+| Monitor Windows Server Virtual Machines and hybrid instances | [Azure Monitor overview](https://learn.microsoft.com/en-us/azure/azure-monitor/overview) |
+| Monitor your Azure virtual machines with Azure Monitor | - [Kusto Query Language (KQL) overview](https://learn.microsoft.com/en-us/kusto/query/) <br> - [SQL to Kusto Query Language cheat sheet](https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet) <br> - [Azure Data Explorer Samples](https://dataexplorer.azure.com/clusters/help/databases/Samples) |
+| Troubleshoot Windows Server Virtual Machines in Azure | |
+| Troubleshoot on-premises and hybrid networking | - [Dnscmd utility](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dnscmd) <br> - [DNSLint utility](https://learn.microsoft.com/en-us/previous-versions/troubleshoot/windows-server/description-dnslint-utility) | 
+
+
+
+
 
 
 
