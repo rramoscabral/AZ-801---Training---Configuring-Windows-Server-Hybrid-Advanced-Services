@@ -21,7 +21,7 @@ has_children: false
 
 [Ricardo Cabral](https://rramoscabral.com/) is a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
 
-He has extensive experience on Microsoft 365, Microsoft Azure, Microsoft Azure Devops, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
+He has extensive experience on Microsoft 365, Microsoft Artificial intelligence (AI) Solutions, Microsoft Azure, Microsoft Azure Devops, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
 
 Now works as Azure Solutions Architect, IT consultant, and IT trainer at [NWORKIT Digital Solutions](https://www.nworkit.pt).
 
