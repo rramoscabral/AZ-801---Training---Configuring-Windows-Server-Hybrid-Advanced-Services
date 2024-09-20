@@ -38,43 +38,71 @@ The course also teaches IT Professionals how to perform tasks related to high av
 
 <a id="othergeneraltraining" />
 
-# Companion Material and Resources for other Microsoft Official Course (MOC) training
+# Companion Material and Resources for Class delivery by Ricardo Cabral
 
+**Artificial intelligence (AI)**
+- [AI-050: Develop Generative AI Solutions with Azure OpenAI Service](https://ai-050.rramoscabral.com/)
+- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://ai102.rramoscabral.com/)
+
+
+**DevOps**
+- [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com/)
+- [AZ-2008: DevOps Foundations The Core Principles and Practices](https://az-2008.rramoscabral.com/)
+
+
+**Microsoft Azure Administrator**
+- [AZ-104: Microsoft Azure Administrator](https://az-2008.rramoscabral.com/)
+- [AZ-300: Microsoft Azure Architect Technologies](http://AZ-300.rramoscabral.com/)
+
+
+**Microsoft Azure Developer**
+- [AZ-204: Developing Solutions for Microsoft Azure](https://az-204.rramoscabral.com/)
+
+
+**Microsoft Azure Database**
+- [DP-900: Microsoft Azure Data Fundamentals](https://dp-900.rramoscabral.com)
+
+
+**Microsoft C#**
 - [20483: Programming in C#](https://github.com/rramoscabral/20483---Training---Programming-in-C-Sharp)
 - [20484: Essentials of Developing Windows Store Apps Using C#](https://github.com/rramoscabral/20484---Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp)
-- [AI-050: Develop Generative AI Solutions with Azure OpenAI Service](https://ai-050.rramoscabral.com/)
-- [AZ-040: Automating Administration with PowerShell](https://az040.rramoscabral.com/)
-- [AZ-104: Microsoft Azure Administrator](https://az-2008.rramoscabral.com/)
-- [AZ-204: Developing Solutions for Microsoft Azure](https://az-204.rramoscabral.com/)
-- [AZ-300: Microsoft Azure Architect Technologies](http://AZ-300.rramoscabral.com/)
-- [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com/)
-- [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az801.rramoscabral.com)
-- [AZ-2008: DevOps Foundations The Core Principles and Practices](https://az-2008.rramoscabral.com/)
-- [DP-080: Querying Data with Microsoft Transact-SQL](https://dp-080.rramoscabral.com/)
-- [DP-900: Microsoft Azure Data Fundamentals](https://dp-900.rramoscabral.com)
-- [MD-101: Managing Modern Desktops](https://md-101.rramoscabral.com/)
-- [MD-102: Endpoint Administrator](https://md-102.rramoscabral.com/)
+
+
+**Microsoft 365**
 - [MS-500: Microsoft 365 Security Administration](https://github.com/rramoscabral/MS-500---Training---Microsoft-365-Security-Administration)
-- [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
-- [MS-720: Microsoft Teams Voice Engineer](https://ms-720.rramoscabral.com/)
+- [M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint](https://m365sharepointpt.rramoscabral.com/)
+- [Microsoft SharePoint Power User: SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
+
+
+**Microsoft Power Platform**
 - [PL-100: Microsoft Power Platform App Maker](https://pl-100.rramoscabral.com)
 - [PL-200: Microsoft Power Platform Functional Consultant](https://pl-200.rramoscabral.com)
 - [PL-400: Microsoft Power Platform Developer](https://pl-400.rramoscabral.com)
 
-<br/>
 
-# Companion Material and Resources for other Community Microsoft Course
-
-- [M55371AC: Windows Server Administration](https://m55371.rramoscabral.com/)
-
-<br/>
-
-# Companion Material and Resources for other personalized training
-
-- [Fundamentos de SQL: Introdução aos Fundamentos de SQL com Transact-SQL](https://rramoscabral.github.io/Fundamentos-de-SQL/)
-- [Microsoft SharePoint Power User: SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
+**Microsoft PowerShell**
+- [AZ-040: Automating Administration with PowerShell](https://az040.rramoscabral.com/)
 - [Microsoft Windows PowerShell Training](https://github.com/rramoscabral/MSPowerShell---Training---Microsoft-Windows-PowerShell)
-- [M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint](https://m365sharepointpt.rramoscabral.com/)
+
+
+**Microsoft SQL Server**
+- [DP-080: Querying Data with Microsoft Transact-SQL](https://dp-080.rramoscabral.com/)
+- [Fundamentos de SQL: Introdução aos Fundamentos de SQL com Transact-SQL](https://rramoscabral.github.io/Fundamentos-de-SQL/)
+
+
+**Microsoft Teams**
+- [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
+- [MS-720: Microsoft Teams Voice Engineer](https://ms-720.rramoscabral.com/)
+
+
+**Microsoft Windows Client**
+- [MD-101: Managing Modern Desktops](https://md-101.rramoscabral.com/)
+- [MD-102: Endpoint Administrator](https://md-102.rramoscabral.com/)
+
+
+**Microsoft Windows Server**
+- [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az801.rramoscabral.com)
+
 
 <br/>
 
